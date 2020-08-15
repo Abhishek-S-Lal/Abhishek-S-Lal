@@ -1,4 +1,4 @@
-[![image](https://raw.githubusercontent.com/Abhishek-S-Lal/Abhishek-S-Lal/master/images/header.png)]
+![image](https://raw.githubusercontent.com/Abhishek-S-Lal/Abhishek-S-Lal/master/images/header.png)
 <h1 align="center">Hi 👋, I'm Abhishek S lal</h1>
 <h3 align="center">A Freelance Web & Mobile App developer from Trivandrum, India</h3>
 
