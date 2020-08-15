@@ -8,7 +8,7 @@
 
 - 🏛  I'm a final year Computer Science Engineering Student.
 - 🔭 I’m currently working on something cool 😉
-- 🚀 I've done projects in Android, Web, OpenCV and Flutter.
+- 🚀 I've done projects in Android, Web, Firebase, OpenCV.
 - 🌱 I’m currently learning Flutter, GCP, and ML
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I still love to watch Tom and Jerry😂.
