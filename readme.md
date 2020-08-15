@@ -29,14 +29,13 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-<br />
-
+---
 
 ### GitHub Statistics:
 
 <p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
 
-<br />
+---
 
 ### To connect with me
 
