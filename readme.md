@@ -7,7 +7,7 @@
 ### Start your quest to find out more about me here..!!
 
 - 🏛  I'm a final year Computer Science Engineering Student.
-- 🔭 I’m currently working on something cool 😉
+- 🔭 I’m currently working on developing an E-Learning Android Platform.
 - 🚀 I've done projects in Android, Web, Firebase, OpenCV.
 - 🌱 I’m currently learning Flutter, GCP, and ML
 - 👯 I’m looking to collaborate with other developers
