@@ -6,8 +6,9 @@
 
 ### Start your quest to find out more about me here..!!
 
+- 🏛  I'm a final year Computer Science Engineering Student.
 - 🔭 I’m currently working on something cool 😉
-- 🚀  I've done projects in Android, Web, OpenCV and Flutter.
+- 🚀 I've done projects in Android, Web, OpenCV and Flutter.
 - 🌱 I’m currently learning Flutter, GCP, and ML
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I still love to watch Tom and Jerry😂.
@@ -28,13 +29,14 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-
   
 <br />
 
 ### GitHub Statistics:
 
 <p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
+
+<br />
 
 ### To connect with me
 
