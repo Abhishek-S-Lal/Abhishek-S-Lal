@@ -16,8 +16,6 @@
 
 ### Languages and Tools:
 
-<p><img align = "right" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
-
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
@@ -33,6 +31,8 @@
 
   
 <br />
+
+<p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
 
 ### To connect with me
 
