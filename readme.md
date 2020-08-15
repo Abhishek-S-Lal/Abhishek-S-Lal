@@ -31,8 +31,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-<details open>
-<summary>🤝 <b>To connect with me<b></summary>
+  
+<br />
+
+### To connect with me
 
 <p align = "center">
 
@@ -41,12 +43,10 @@
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
-[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/pr2tik1/pr2tik1)
 ![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)
 
 </p>
 
-</details>
 
 ### 📺 Latest YouTube Videos
 
