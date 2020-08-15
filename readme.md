@@ -12,7 +12,8 @@
 - 🌱 I’m currently learning Flutter, GCP, and ML
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I still love to watch Tom and Jerry😂.
-<br />
+
+---
 
 ### Languages and Tools:
 
