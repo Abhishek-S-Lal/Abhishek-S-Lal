@@ -34,7 +34,7 @@
 
 ### GitHub Statistics:
 
-<p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
+<p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true&count_private=true" alt="abhishek-s-lal" /></p>
 
 ---
 
