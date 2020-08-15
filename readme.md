@@ -3,9 +3,7 @@
 <h3 align="center">A Freelance Web & Mobile App developer from Trivandrum, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekslal" alt="abhishekslal" /> </p>
-
-
-
+<p><img align = "right" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
 ### Start your quest to find out more about me here..!!
 
 - 🔭 I’m currently working on something cool 😉
@@ -13,7 +11,6 @@
 - 🌱 I’m currently learning Flutter, GCP, and ML
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I still love to watch Tom and Jerry😂.
-
 
 <br />
 
@@ -23,7 +20,12 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
+### GitHub Statitics:
+
+
+
+
+<br />
 
 ---<details open>
 <summary>🤝 <b>To connect with me<b></summary>
