@@ -9,7 +9,7 @@
 ### Start your quest to find out more about me here..!!
 
 - 🔭 I’m currently working on something cool 😉
-- 🚀  I've done projects in Android, Web, OpenCV and Telegram Bots.
+- 🚀  I've done projects in Android, Web, OpenCV and Flutter.
 - 🌱 I’m currently learning Flutter, GCP, and ML
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I still love to watch Tom and Jerry😂.
@@ -23,7 +23,7 @@
 
 <br />
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
 
 ---<details open>
 <summary>🤝 <b>To connect with me<b></summary>
