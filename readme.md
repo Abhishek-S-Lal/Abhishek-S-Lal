@@ -68,23 +68,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
-- [Blog Post 2](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
-- [Blog Post 3](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
-- [Blog Post 4](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
-- [Blog Post 5](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
+- [Blog Post 1](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
+- [Blog Post 2](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
+- [Blog Post 3](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
+- [Blog Post 4](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
+- [Blog Post 5](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.blogger.com/blog/posts/7395802012660114532#allposts)
+➡️ [more blog posts...](https://futuretrivandrum.blogspot.com/)
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-<br />
