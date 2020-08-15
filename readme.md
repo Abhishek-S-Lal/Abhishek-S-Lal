@@ -1,4 +1,4 @@
-[![image](/images/header.png)](https://abhishek-s-lal.github.io/cv/)
+[![image](images/header.png)](https://abhishek-s-lal.github.io/cv/)
 <h1 align="center">Hi 👋, I'm Abhishek S lal</h1>
 <h3 align="center">A Freelance Web & Mobile App developer from Trivandrum, India</h3>
 
