@@ -1,47 +1,55 @@
-[![image](/images/header.png)](https://abhishek-s-lal.github.io/cv/)
-<h1 align="center">Hi 👋, I'm Abhishek S lal</h1>
+![image](https://raw.githubusercontent.com/Abhishek-S-Lal/Abhishek-S-Lal/master/images/header.png)
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A Freelance Web & Mobile App developer from Trivandrum, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekslal" alt="abhishekslal" /> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true" alt="abhishek-s-lal" /></p>
-
 ### Start your quest to find out more about me here..!!
 
-- 🔭 I’m currently working on something cool 😉
-- 🚀  I've done projects in Android, Web, Arduino, Raspberry Pi, Computer Vision.
+- 🏛  I'm a final year Computer Science Engineering Student.
+- 🔭 I’m currently working on developing an E-Learning Android Platform.
+- 🚀 I've done projects in Android, Web, Firebase and OpenCV.
 - 🌱 I’m currently learning Flutter, GCP, and ML
 - 👯 I’m looking to collaborate with other developers
-- 📫 How to reach me: @abhishekslal
 - ⚡ Fun fact: I still love to watch Tom and Jerry😂.
 
-
-<br />
+---
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-<br />
+---
 
+### GitHub Statistics:
 
+<p><img align = "center" src="https://github-readme-stats.vercel.app/api?username=abhishek-s-lal&show_icons=true&count_private=true" alt="abhishek-s-lal" /></p>
 
----<details open>
-<summary>🤝 <b>To connect with me<b></summary>
+---
+
+### To connect with me
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Pratikpkb) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04)
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
-[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/pr2tik1/pr2tik1)
-![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AbhishekslalS) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@abhishekslal)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://abhishek-s-lal.github.io/cv/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishekslal/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abhishekslal/)
+[![Repos Badge](https://badges.pufler.dev/repos/Abhishek-S-Lal?style=for-the-badge&color=red)](https://github.com/Abhishek-S-Lal?tab=repositories)
 
-</p>
-
-</details>
+---
 
 ### 📺 Latest YouTube Videos
 
@@ -60,23 +68,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
-- [Blog Post 2](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
-- [Blog Post 3](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
-- [Blog Post 4](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
-- [Blog Post 5](https://www.blogger.com/blog/post/edit/7395802012660114532/9113600802005672765)
+- [Blog Post 1](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
+- [Blog Post 2](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
+- [Blog Post 3](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
+- [Blog Post 4](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
+- [Blog Post 5](https://futuretrivandrum.blogspot.com/2017/09/proposal-for-new-45m-wide-highway-from.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.blogger.com/blog/posts/7395802012660114532#allposts)
+➡️ [more blog posts...](https://futuretrivandrum.blogspot.com/)
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-<br />
