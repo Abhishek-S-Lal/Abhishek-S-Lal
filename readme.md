@@ -6,10 +6,10 @@
 
 ### Start your quest to find out more about me here..!!
 
-- 🏛  I'm a final year Computer Science Engineering Student.
-- 🔭 I’m currently working on developing an E-Learning Android Platform.
-- 🚀 I've done projects in Android, Web, Firebase and OpenCV.
-- 🌱 I’m currently learning Flutter, GCP, and ML
+- 🏛  I'm a full-stack web and mobile app developer.
+- 🔭 I’m currently building Cosmogence to revolutionize remote hiring.
+- 🚀 I've done projects in Android and Web.
+- 🌱 I’m currently learning Product Management
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I still love to watch Tom and Jerry😂.
 
