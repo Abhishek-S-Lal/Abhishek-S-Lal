@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/Abhishek-S-Lal/Abhishek-S-Lal/master/images/header.png)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A Freelance Web & Mobile App developer from Trivandrum, India</h3>
+<h3 align="center">A Web & Mobile App developer from Trivandrum, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekslal" alt="abhishekslal" /> </p>
 
