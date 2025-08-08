@@ -11,7 +11,6 @@
 - 🚀 I've done projects in Android and Web.
 - 🌱 I’m currently learning Product Management
 - 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I still love to watch Tom and Jerry😂.
 
 ---
 
